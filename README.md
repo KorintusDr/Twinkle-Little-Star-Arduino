@@ -4,7 +4,7 @@
 
 ## Komponen yang Digunakan 🔧
 
-- **Arduino Board** (misalnya, Arduino Uno) 🖥️
+- **Arduino Board** (Arduino Uno) 🖥️
 - **4 Buzzer** (untuk memainkan nada) 🎵
 - **4 LED** (untuk efek visual) 💡
 - **Resistor** (untuk LED, sekitar 220 ohm) ⚡
